@@ -1,0 +1,117 @@
+/*Your CSS goes here. This is the only file you'll need to modify for this assignment.*/
+
+body {
+margin: 0px auto;
+}
+
+.site-banner {
+    background: black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 8px;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+
+.site-banner img {
+    width: 188px;
+}
+
+.article {
+    max-width: 1200px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right:auto;
+    margin-left:auto;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.story-header {
+    font-family: "Franklin Light", serif;
+}
+
+.story-header .news-section {
+    font-family: "Franklin Bold", serif;
+    font-size: 14px;
+    margin-top: 32px;
+}
+
+.story-header h1 {
+    font-family: "Postoni";
+    font-size: 46px;
+    margin-bottom: 0px;
+    font-weight: thin;
+}
+
+.story-header .deck {
+font-size: 20px;
+}
+
+.story-header .byline a {
+    font-size: 16px;
+    margin-bottom: 2px;
+}
+
+.story-header .publish-date {
+    font-size: 14px;
+    margin-top: 0px;
+    color: #666666;
+}
+
+.story-body {
+    font-family: "Georgia", serif;
+    font-size: 20px;
+    line-height: 32px;
+    max-width: 700px;
+}
+
+.story-body img {
+    width: 100%;
+}
+
+.story-body .photo-caption {
+    color: #666666;
+    font-size: 14px;
+    margin-top: 0px;
+    line-height: 18px;
+    font-family: "Franklin Light", serif;
+}
+
+.story-footer {
+    max-width: 700px;
+    border-top: 1px solid black;
+}
+
+.story-footer .more-for-you {
+    font-family: "Franklin Bold", serif;
+    font-size: 16px;
+    font-weight: thin;
+}
+
+.story-footer h2 {
+    font-family: "Postoni", serif;
+    font-size: 28px;
+    margin-top: 0px;
+}
+
+.story-footer .footer-info {
+    font-size: 14px;
+    padding-bottom: 10px; 
+    color:  #e9e9e9;
+    font-family: "Franklin Light", serif;
+}
+
+a:hover{
+color: red;
+text-decoration: underline red;
+}
+
+a:link {
+    color: #0066cc;
+    text-decoration: none;
+    
+}

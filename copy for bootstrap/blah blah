@@ -1,0 +1,72 @@
+ 
+    <div class="container">
+      
+
+<!--  We start of by creating a row:      -->
+      
+      <div class="row">
+
+        
+<!--  Then, add at least one column in that row.      -->        
+        
+        <div class="col">
+ 
+          <p>Header</p>          
+          
+        </div>
+        
+      </div>
+
+<!--  To add a row with more columns, just include more columns in it     -->   
+      
+      <div class="row">
+        
+        <div class="col">
+          Text Box 1
+        </div>
+        
+        <div class="col">
+          Data viz 1
+        </div>
+        
+      </div>
+      
+<!--  Then just keep doing this with additional rows that have the number of columns you choose.     -->         
+
+      <div class="row">
+        
+        <div class="col">
+         Image 1
+        </div>
+        
+        <div class="col">
+          Image 2
+        </div>
+        
+        
+        <div class="col">
+          Image 3
+        </div>
+        
+      </div>
+
+      
+      
+      
+      
+      <div class="row">
+      
+        <div class="col">
+          Body
+        </div>        
+        
+      </div>
+
+      
+<!--  And finally, be sure to close your container class div.    -->      
+      
+    </div>
+    
+    
+<br/>
+    
