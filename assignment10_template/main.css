@@ -1,5 +1,6 @@
 body {
   margin: 50px;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 nav {
@@ -25,12 +26,12 @@ nav {
 
 
 header {
-    font-family: Basier, Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 }
 
 h1 {
-  font-size: 46px;
+  font-size: 60px;
 }
 
 .byline {
